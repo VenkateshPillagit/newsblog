@@ -1,0 +1,19 @@
+{
+    "nav.home.text": "Home",
+    "nav.newPost.text": "NewPost",
+    "nav.aboutUs.text": "AboutUs",
+    "nav.contactUs.text": "ContactUs",
+    "nav.heading": "Venkat Blogs",
+    "newPost.title.label": "Title",
+    "newPost.content.label": "Content",
+    "newPost.path.label": "Path",
+    "newPost.button.label": "Post",
+    "blog.secondary.login": "Login",
+    "blog.secondary.logout": "Logout",
+    "blog.forgotPassword.text": "Forgot Password",
+    "blog.forgotUserName.text": "Forgot UserName",
+    "blog.userName.label": "UserName",
+    "blog.password.label": "Password",
+    "blog.newPost.text": "New Post",
+    "blog.aboutus.text": "An About Us Page is a page on your website that tells your readers all about you. It includes a detailed description covering all aspects of your business and you as an entrepreneur. This can include the products or services you are offering, how you came into being as a business, your mission and vision, your aim, and maybe something about your future goals too. Your About Us page is your perfect opportunity to tell a compelling story about your business."
+}

@@ -1,0 +1,63 @@
+{
+  "name": "create-react-app-without",
+  "version": "1.0.0",
+  "description": "react app creation and initial setup",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server .",
+    "start1": "set HTTPS=true&&set SSL_CRT_FILE=cert.pem&&set SSL_KEY_FILE=key.pem localhost",
+    "build": "webpack ."
+  },
+  "author": "Venkatesh Pilla",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.22.9",
+    "@babel/plugin-transform-runtime": "^7.22.9",
+    "@babel/preset-env": "^7.22.9",
+    "@babel/preset-react": "^7.22.5",
+    "@babel/runtime": "^7.22.6",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^9.1.3",
+    "css-loader": "^6.8.1",
+    "eslint": "^8.45.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "file-loader": "^6.2.0",
+    "style-loader": "^3.3.3",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  },
+  "dependencies": {
+    "@auth0/auth0-react": "^2.2.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@material-ui/core": "^4.12.4",
+    "@mui/icons-material": "^5.14.1",
+    "@mui/material": "^5.14.1",
+    "@react-oauth/google": "^0.11.1",
+    "axios": "^1.4.0",
+    "bcryptjs": "^2.4.3",
+    "bootstrap-icons": "^1.10.5",
+    "dotenv": "^16.3.1",
+    "formik": "^2.4.3",
+    "js-cookie": "^3.0.5",
+    "prop-types": "^15.8.1",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-intl": "^6.4.4",
+    "react-otp-input": "^3.0.4",
+    "react-router-dom": "^6.14.2",
+    "source-map-loader": "^4.0.1",
+    "yup": "^1.2.0"
+  },
+  "browser": {
+    "crypto": false,
+    "stream": false
+  }
+}

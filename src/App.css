@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #eeeeee;
+}
+
+.app-container {
+    width: 100vw;
+    height: 100vh;
+}
+
+.sidebar-container {
+    position: absolute;
+    height: 100%;
+    background-color: #1677ff;
+}
+
+*{
+    box-sizing: border-box;
+}

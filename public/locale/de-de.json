@@ -1,0 +1,19 @@
+{
+    "nav.home.text": "Heim",
+    "nav.newPost.text": "Neuer Beitrag",
+    "nav.aboutUs.text": "Über uns",
+    "nav.contactUs.text": "Kontaktiere uns",
+    "nav.heading": "Venkat-Blogs",
+    "newPost.title.label": "Titel",
+    "newPost.content.label": "Inhalt",
+    "newPost.path.label": "Weg",
+    "newPost.button.label": "Post",
+    "blog.secondary.login": "Anmeldung",
+    "blog.secondary.logout": "Ausloggen",
+    "blog.forgotPassword.text": "Passwort vergessen",
+    "blog.forgotUserName.text": "Benutzername vergessen",
+    "blog.userName.label": "Nutzername",
+    "blog.password.label": "Passwort",
+    "blog.newPost.text": "Neuer Beitrag",
+    "blog.aboutus.text": "Eine „Über uns“-Seite ist eine Seite auf Ihrer Website, die Ihren Lesern alles über Sie erzählt. Es enthält eine detaillierte Beschreibung aller Aspekte Ihres Unternehmens und Ihrer Person als Unternehmer. Dazu können die Produkte oder Dienstleistungen gehören, die Sie anbieten, wie Sie als Unternehmen entstanden sind, Ihre Mission und Vision, Ihr Ziel und vielleicht auch etwas über Ihre zukünftigen Ziele. Ihre Seite „Über uns“ ist Ihre perfekte Gelegenheit, eine überzeugende Geschichte über Ihr Unternehmen zu erzählen."
+}
